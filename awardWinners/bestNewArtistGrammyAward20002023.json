@@ -1,76 +1,100 @@
 {
   "items": [
     {
-      "name": "Christina Aguilera"
+      "name": "Christina Aguilera",
+      "img": "Placeholder"
     },
     {
-      "name": "Shelby Lynne"
+      "name": "Shelby Lynne",
+      "img": "Placeholder"
     },
     {
-      "name": "Alicia Keys"
+      "name": "Alicia Keys",
+      "img": "Placeholder"
     },
     {
-      "name": "Norah Jones"
+      "name": "Norah Jones",
+      "img": "Placeholder"
     },
     {
-      "name": "Evanescence"
+      "name": "Evanescence",
+      "img": "Placeholder"
     },
     {
-      "name": "Maroon 5"
+      "name": "Maroon 5",
+      "img": "Placeholder"
     },
     {
-      "name": "John Legend"
+      "name": "John Legend",
+      "img": "Placeholder"
     },
     {
-      "name": "Carrie Underwood"
+      "name": "Carrie Underwood",
+      "img": "Placeholder"
     },
     {
-      "name": "Amy Winehouse"
+      "name": "Amy Winehouse",
+      "img": "Placeholder"
     },
     {
-      "name": "Adele"
+      "name": "Adele",
+      "img": "Placeholder"
     },
     {
-      "name": "Zac Brown Band"
+      "name": "Zac Brown Band",
+      "img": "Placeholder"
     },
     {
-      "name": "Esperanza Spalding"
+      "name": "Esperanza Spalding",
+      "img": "Placeholder"
     },
     {
-      "name": "Bon Iver"
+      "name": "Bon Iver",
+      "img": "Placeholder"
     },
     {
-      "name": "Fun"
+      "name": "Fun",
+      "img": "Placeholder"
     },
     {
-      "name": "Macklemore & Ryan Lewis"
+      "name": "Macklemore & Ryan Lewis",
+      "img": "Placeholder"
     },
     {
-      "name": "Sam Smith"
+      "name": "Sam Smith",
+      "img": "Placeholder"
     },
     {
-      "name": "Meghan Trainor"
+      "name": "Meghan Trainor",
+      "img": "Placeholder"
     },
     {
-      "name": "Chance the Rapper"
+      "name": "Chance the Rapper",
+      "img": "Placeholder"
     },
     {
-      "name": "Alessia Cara"
+      "name": "Alessia Cara",
+      "img": "Placeholder"
     },
     {
-      "name": "Dua Lipa"
+      "name": "Dua Lipa",
+      "img": "Placeholder"
     },
     {
-      "name": "Billie Eilish"
+      "name": "Billie Eilish",
+      "img": "Placeholder"
     },
     {
-      "name": "Megan Thee Stallion"
+      "name": "Megan Thee Stallion",
+      "img": "Placeholder"
     },
     {
-      "name": "Olivia Rodrigo"
+      "name": "Olivia Rodrigo",
+      "img": "Placeholder"
     },
     {
-      "name": "(To be announced)"
+      "name": "To be announced",
+      "img": "Placeholder"
     }
   ]
 }
