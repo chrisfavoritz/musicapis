@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "name": "Tupac Shakur",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Notorious B.I.G.",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nas",
+      "img": "placeholder"
+    },
+    {
+      "name": "Jay-Z",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dr. Dre",
+      "img": "placeholder"
+    },
+    {
+      "name": "Ice Cube",
+      "img": "placeholder"
+    },
+    {
+      "name": "Public Enemy",
+      "img": "placeholder"
+    },
+    {
+      "name": "Run-D.M.C.",
+      "img": "placeholder"
+    },
+    {
+      "name": "LL Cool J",
+      "img": "placeholder"
+    },
+    {
+      "name": "Snoop Dogg",
+      "img": "placeholder"
+    },
+    {
+      "name": "Eminem",
+      "img": "placeholder"
+    },
+    {
+      "name": "OutKast",
+      "img": "placeholder"
+    },
+    {
+      "name": "N.W.A",
+      "img": "placeholder"
+    },
+    {
+      "name": "Wu-Tang Clan",
+      "img": "placeholder"
+    },
+    {
+      "name": "Beastie Boys",
+      "img": "placeholder"
+    },
+    {
+      "name": "A Tribe Called Quest",
+      "img": "placeholder"
+    },
+    {
+      "name": "Rakim",
+      "img": "placeholder"
+    },
+    {
+      "name": "KRS-One",
+      "img": "placeholder"
+    },
+    {
+      "name": "De La Soul",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cypress Hill",
+      "img": "placeholder"
+    },
+    {
+      "name": "Missy Elliott",
+      "img": "placeholder"
+    },
+    {
+      "name": "Scarface",
+      "img": "placeholder"
+    },
+    {
+      "name": "Common",
+      "img": "placeholder"
+    },
+    {
+      "name": "2 Live Crew",
+      "img": "placeholder"
+    },
+    {
+      "name": "Grandmaster Flash and the Furious Five",
+      "img": "placeholder"
+    }
+  ]
+}
