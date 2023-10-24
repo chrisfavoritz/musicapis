@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "name": "The Beatles",
+      "img": "placeholder"
+    },
+    {
+      "name": "Led Zeppelin",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Rolling Stones",
+      "img": "placeholder"
+    },
+    {
+      "name": "Queen",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pink Floyd",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Who",
+      "img": "placeholder"
+    },
+    {
+      "name": "U2",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Beach Boys",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Eagles",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nirvana",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Jimi Hendrix Experience",
+      "img": "placeholder"
+    },
+    {
+      "name": "Fleetwood Mac",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Doors",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Clash",
+      "img": "placeholder"
+    },
+    {
+      "name": "Radiohead",
+      "img": "placeholder"
+    },
+    {
+      "name": "AC/DC",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Police",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Velvet Underground",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Grateful Dead",
+      "img": "placeholder"
+    },
+    {
+      "name": "Metallica",
+      "img": "placeholder"
+    },
+    {
+      "name": "R.E.M.",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Bee Gees",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Jackson 5",
+      "img": "placeholder"
+    },
+    {
+      "name": "Black Sabbath",
+      "img": "placeholder"
+    },
+    {
+      "name": "Creedence Clearwater Revival (CCR)",
+      "img": "placeholder"
+    }
+  ]
+}
