@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "name": "Elvis Presley",
+      "img": "placeholder"
+    },
+    {
+      "name": "Michael Jackson",
+      "img": "placeholder"
+    },
+    {
+      "name": "Frank Sinatra",
+      "img": "placeholder"
+    },
+    {
+      "name": "Elton John",
+      "img": "placeholder"
+    },
+    {
+      "name": "Stevie Wonder",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bob Dylan",
+      "img": "placeholder"
+    },
+    {
+      "name": "Prince",
+      "img": "placeholder"
+    },
+    {
+      "name": "David Bowie",
+      "img": "placeholder"
+    },
+    {
+      "name": "Johnny Cash",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bruce Springsteen",
+      "img": "placeholder"
+    },
+    {
+      "name": "Billy Joel",
+      "img": "placeholder"
+    },
+    {
+      "name": "James Brown",
+      "img": "placeholder"
+    },
+    {
+      "name": "Marvin Gaye",
+      "img": "placeholder"
+    },
+    {
+      "name": "Ray Charles",
+      "img": "placeholder"
+    },
+    {
+      "name": "Jimi Hendrix",
+      "img": "placeholder"
+    },
+    {
+      "name": "Paul McCartney",
+      "img": "placeholder"
+    },
+    {
+      "name": "Eric Clapton",
+      "img": "placeholder"
+    },
+    {
+      "name": "Freddie Mercury",
+      "img": "placeholder"
+    },
+    {
+      "name": "Billy Idol",
+      "img": "placeholder"
+    },
+    {
+      "name": "B.B. King",
+      "img": "placeholder"
+    },
+    {
+      "name": "George Michael",
+      "img": "placeholder"
+    },
+    {
+      "name": "Neil Young",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mick Jagger",
+      "img": "placeholder"
+    },
+    {
+      "name": "Phil Collins",
+      "img": "placeholder"
+    },
+    {
+      "name": "Rod Stewart",
+      "img": "placeholder"
+    }
+  ]
+}
