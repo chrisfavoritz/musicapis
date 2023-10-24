@@ -1,79 +1,104 @@
 {
   "items": [
     {
-      "name": "Heat Waves - Glass Animals"
+      "name": "Heat Waves - Glass Animals",
+      "img": "Placeholder"
     },
     {
-      "name": "As It Was - Harry Styles"
+      "name": "As It Was - Harry Styles",
+      "img": "Placeholder"
     },
     {
-      "name": "Stay - The Kid Laroi and Justin Bieber"
+      "name": "Stay - The Kid Laroi and Justin Bieber",
+      "img": "Placeholder"
     },
     {
-      "name": "Easy on Me - Adele"
+      "name": "Easy on Me - Adele",
+      "img": "Placeholder"
     },
     {
-      "name": "Shivers - Ed Sheeran"
+      "name": "Shivers - Ed Sheeran",
+      "img": "Placeholder"
     },
     {
-      "name": "First Class - Jack Harlow"
+      "name": "First Class - Jack Harlow",
+      "img": "Placeholder"
     },
     {
-      "name": "Big Energy - Latto"
+      "name": "Big Energy - Latto",
+      "img": "Placeholder"
     },
     {
-      "name": "Ghost - Justin Bieber"
+      "name": "Ghost - Justin Bieber",
+      "img": "Placeholder"
     },
     {
-      "name": "Super Gremlin - Kodak Black"
+      "name": "Super Gremlin - Kodak Black",
+      "img": "Placeholder"
     },
     {
-      "name": "Cold Heart (Pnau remix) - Elton John and Dua Lipa"
+      "name": "Cold Heart (Pnau remix) - Elton John and Dua Lipa",
+      "img": "Placeholder"
     },
     {
-      "name": "Wait for U - Future featuring Drake and Tems"
+      "name": "Wait for U - Future featuring Drake and Tems",
+      "img": "Placeholder"
     },
     {
-      "name": "About Damn Time - Lizzo"
+      "name": "About Damn Time - Lizzo",
+      "img": "Placeholder"
     },
     {
-      "name": "Bad Habits - Ed Sheeran"
+      "name": "Bad Habits - Ed Sheeran",
+      "img": "Placeholder"
     },
     {
-      "name": "That's What I Want - Lil Nas X"
+      "name": "That's What I Want - Lil Nas X",
+      "img": "Placeholder"
     },
     {
-      "name": "Enemy - Imagine Dragons and JID"
+      "name": "Enemy - Imagine Dragons and JID",
+      "img": "Placeholder"
     },
     {
-      "name": "Industry Baby - Lil Nas X and Jack Harlow"
+      "name": "Industry Baby - Lil Nas X and Jack Harlow",
+      "img": "Placeholder"
     },
     {
-      "name": "ABCDEFU - Gayle"
+      "name": "ABCDEFU - Gayle",
+      "img": "Placeholder"
     },
     {
-      "name": "Need to Know - Doja Cat"
+      "name": "Need to Know - Doja Cat",
+      "img": "Placeholder"
     },
     {
-      "name": "Wasted on You - Morgan Wallen"
+      "name": "Wasted on You - Morgan Wallen",
+      "img": "Placeholder"
     },
     {
-      "name": "Me Porto Bonito - Bad Bunny and Chencho Corleone"
+      "name": "Me Porto Bonito - Bad Bunny and Chencho Corleone",
+      "img": "Placeholder"
     },
     {
-      "name": "Woman - Doja Cat"
+      "name": "Woman - Doja Cat",
+      "img": "Placeholder"
     },
     {
-      "name": "Tití Me Preguntó - Bad Bunny"
+      "name": "Tití Me Preguntó - Bad Bunny",
+      "img": "Placeholder"
     },
     {
-      "name": "Running Up That Hill (A Deal with God) - Kate Bush"
+      "name": "Running Up That Hill (A Deal with God) - Kate Bush",
+      "img": "Placeholder"
     },
     {
-      "name": "We Don't Talk About Bruno - Carolina Gaitán, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz and the Encanto cast"
+      "name": "We Don't Talk About Bruno - Carolina Gaitán, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz and the Encanto cast",
+      "img": "Placeholder"
     },
     {
-      "name": "Late Night Talking - Harry Styles"
+      "name": "Late Night Talking - Harry Styles",
+      "img": "Placeholder"
     }
   ]
 }
