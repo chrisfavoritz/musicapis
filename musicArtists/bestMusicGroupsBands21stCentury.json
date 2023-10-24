@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "name": "Coldplay",
+      "img": "placeholder"
+    },
+    {
+      "name": "Radiohead",
+      "img": "placeholder"
+    },
+    {
+      "name": "U2",
+      "img": "placeholder"
+    },
+    {
+      "name": "Arctic Monkeys",
+      "img": "placeholder"
+    },
+    {
+      "name": "The White Stripes",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Strokes",
+      "img": "placeholder"
+    },
+    {
+      "name": "Muse",
+      "img": "placeholder"
+    },
+    {
+      "name": "Foo Fighters",
+      "img": "placeholder"
+    },
+    {
+      "name": "Linkin Park",
+      "img": "placeholder"
+    },
+    {
+      "name": "Imagine Dragons",
+      "img": "placeholder"
+    },
+    {
+      "name": "Vampire Weekend",
+      "img": "placeholder"
+    },
+    {
+      "name": "Arcade Fire",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Killers",
+      "img": "placeholder"
+    },
+    {
+      "name": "Daft Punk",
+      "img": "placeholder"
+    },
+    {
+      "name": "Twenty One Pilots",
+      "img": "placeholder"
+    },
+    {
+      "name": "Gorillaz",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mumford & Sons",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Black Keys",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kings of Leon",
+      "img": "placeholder"
+    },
+    {
+      "name": "Florence + The Machine",
+      "img": "placeholder"
+    },
+    {
+      "name": "Red Hot Chili Peppers",
+      "img": "placeholder"
+    },
+    {
+      "name": "Paramore",
+      "img": "placeholder"
+    },
+    {
+      "name": "Foster the People",
+      "img": "placeholder"
+    },
+    {
+      "name": "The 1975",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tame Impala",
+      "img": "placeholder"
+    }
+  ]
+}
