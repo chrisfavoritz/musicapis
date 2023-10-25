@@ -1,15 +1,15 @@
 {
   "items": [
-    { "name": "Tim McGraw", "img": "Placeholder" },
-    { "name": "Picture to Burn", "img": "Placeholder" },
-    { "name": "Teardrops on My Guitar", "img": "Placeholder" },
-    { "name": "A Place in This World", "img": "Placeholder" },
-    { "name": "Cold as You", "img": "Placeholder" },
-    { "name": "The Outside", "img": "Placeholder" },
-    { "name": "Tied Together with a Smile", "img": "Placeholder" },
-    { "name": "Stay Beautiful", "img": "Placeholder" },
-    { "name": "Should've Said No", "img": "Placeholder" },
-    { "name": "Mary's Song (Oh My My My)", "img": "Placeholder" },
-    { "name": "Our Song", "img": "Placeholder" }
+    { "name": "Tim McGraw", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png" },
+    { "name": "Picture to Burn", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png" },
+    { "name": "Teardrops on My Guitar", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png" },
+    { "name": "A Place in This World", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png" },
+    { "name": "Cold as You", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png" },
+    { "name": "The Outside", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png" },
+    { "name": "Tied Together with a Smile", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png" },
+    { "name": "Stay Beautiful", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png" },
+    { "name": "Should've Said No", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png" },
+    { "name": "Mary's Song (Oh My My My)", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png" },
+    { "name": "Our Song", "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png" }
   ]
 }
