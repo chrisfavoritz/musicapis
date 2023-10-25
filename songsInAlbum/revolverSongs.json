@@ -1,18 +1,18 @@
 {
   "items": [
-    { "name": "Taxman", "img": "Placeholder" },
-    { "name": "Eleanor Rigby", "img": "Placeholder" },
-    { "name": "I'm Only Sleeping", "img": "Placeholder" },
-    { "name": "Love You To", "img": "Placeholder" },
-    { "name": "Here, There and Everywhere", "img": "Placeholder" },
-    { "name": "Yellow Submarine", "img": "Placeholder" },
-    { "name": "She Said, She Said", "img": "Placeholder" },
-    { "name": "Good Day Sunshine", "img": "Placeholder" },
-    { "name": "And Your Bird Can Sing", "img": "Placeholder" },
-    { "name": "For No One", "img": "Placeholder" },
-    { "name": "Doctor Robert", "img": "Placeholder" },
-    { "name": "I Want to Tell You", "img": "Placeholder" },
-    { "name": "Got to Get You into My Life", "img": "Placeholder" },
-    { "name": "Tomorrow Never Knows", "img": "Placeholder" }
+    { "name": "Taxman", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "Eleanor Rigby", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "I'm Only Sleeping", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "Love You To", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "Here, There and Everywhere", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "Yellow Submarine", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "She Said, She Said", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "Good Day Sunshine", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "And Your Bird Can Sing", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "For No One", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "Doctor Robert", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "I Want to Tell You", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "Got to Get You into My Life", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" },
+    { "name": "Tomorrow Never Knows", "img": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg" }
   ]
 }
