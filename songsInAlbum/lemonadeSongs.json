@@ -1,16 +1,16 @@
 {
   "items": [
-    { "name": "Pray You Catch Me", "img": "Placeholder" },
-    { "name": "Hold Up", "img": "Placeholder" },
-    { "name": "Don't Hurt Yourself (feat. Jack White)", "img": "Placeholder" },
-    { "name": "Sorry", "img": "Placeholder" },
-    { "name": "6 Inch (feat. The Weeknd)", "img": "Placeholder" },
-    { "name": "Daddy Lessons", "img": "Placeholder" },
-    { "name": "Love Drought", "img": "Placeholder" },
-    { "name": "Sandcastles", "img": "Placeholder" },
-    { "name": "Forward (feat. James Blake)", "img": "Placeholder" },
-    { "name": "Freedom (feat. Kendrick Lamar)", "img": "Placeholder" },
-    { "name": "All Night", "img": "Placeholder" },
-    { "name": "Formation", "img": "Placeholder" }
+    { "name": "Pray You Catch Me", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" },
+    { "name": "Hold Up", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" },
+    { "name": "Don't Hurt Yourself (feat. Jack White)", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" },
+    { "name": "Sorry", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" },
+    { "name": "6 Inch (feat. The Weeknd)", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" },
+    { "name": "Daddy Lessons", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" },
+    { "name": "Love Drought", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" },
+    { "name": "Sandcastles", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" },
+    { "name": "Forward (feat. James Blake)", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" },
+    { "name": "Freedom (feat. Kendrick Lamar)", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" },
+    { "name": "All Night", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" },
+    { "name": "Formation", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png" }
   ]
 }
