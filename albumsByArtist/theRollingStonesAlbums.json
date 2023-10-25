@@ -1,104 +1,108 @@
 {
   "items": [
     {
-      "name": "The Rolling Stones (UK) or England's Newest Hit Makers (US) (1964)",
-      "img": "placeholder"
+      "name": "The Rolling Stones (1964)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/RS64.jpg"
     },
     {
       "name": "12 x 5 (1964)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/67/12x5%28Rolling_Stones_Album%29_coverart.jpg"
     },
     {
-      "name": "The Rolling Stones No. 2 (UK) or The Rolling Stones, Now! (US) (1965)",
-      "img": "placeholder"
+      "name": "The Rolling Stones No. 2 (1965)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/58/TheRollingStonesNumber2.jpg"
     },
     {
       "name": "Out of Our Heads (1965)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bd/Out%2Bof%2BOur%2BHeads%2B-UK-.jpg"
     },
     {
       "name": "December's Children (And Everybody's) (1965)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/64/DecChLP.jpg"
     },
     {
-      "name": "Aftermath (UK) or Aftermath (US) (1966)",
-      "img": "placeholder"
+      "name": "Aftermath (1966)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/Aftermath_UK.jpg"
     },
     {
-      "name": "Between the Buttons (UK) or Between the Buttons (US) (1967)",
-      "img": "placeholder"
+      "name": "Between the Buttons (1967)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/BetweenthebuttonsUK.jpg"
     },
     {
       "name": "Their Satanic Majesties Request (1967)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/df/Rolling_Stones_-_Their_Satanic_Majesties_Request_-_1967_Decca_Album_cover.jpg"
     },
     {
       "name": "Beggars Banquet (1968)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2b/Beggar_Banquet.jpg"
     },
     {
       "name": "Let It Bleed (1969)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/LetitbleedRS.jpg"
     },
     {
       "name": "Sticky Fingers (1971)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Rolling_Stones_-_Sticky_Fingers.png"
     },
     {
       "name": "Exile on Main St. (1972)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/ExileMainSt.jpg"
     },
     {
       "name": "Goats Head Soup (1973)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Rolling_Stones_-_Goats_Head_Soup.jpg"
     },
     {
       "name": "It's Only Rock 'n Roll (1974)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5d/IORNRCover.jpg"
     },
     {
       "name": "Black and Blue (1976)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5a/Blackblue.jpg"
     },
     {
       "name": "Some Girls (1978)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Some_Girls.png"
     },
     {
       "name": "Emotional Rescue (1980)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/EmotionalRescue.jpg"
     },
     {
       "name": "Tattoo You (1981)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/16/TattooYou81.jpg"
     },
     {
       "name": "Undercover (1983)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Undercoverstones.jpg/220px-Undercoverstones.jpg"
     },
     {
       "name": "Dirty Work (1986)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/be/DirtyworkRS.jpg"
     },
     {
       "name": "Steel Wheels (1989)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/24/SteelWheels89.jpg"
     },
     {
       "name": "Voodoo Lounge (1994)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/84/VoodooLounge94.jpg"
     },
     {
       "name": "Bridges to Babylon (1997)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3d/BridgesBabylon97.jpg"
     },
     {
       "name": "A Bigger Bang (2005)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b3/A_bigger_band_album_cover_%28Wikipedia%29.jpg"
     },
     {
       "name": "Blue & Lonesome (2016)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/The_Rolling_Stones_-_Blue_%26_Lonesome.png"
+    },
+    {
+      "name": "Hackney Diamonds (2023)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/The_Rolling_Stones_-_Hackney_Diamonds.jpg"
     }
   ]
 }
