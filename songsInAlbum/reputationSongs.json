@@ -1,19 +1,19 @@
 {
   "items": [
-    { "name": "“…Ready for It?”", "img": "Placeholder" },
-    { "name": "“End Game” (featuring Ed Sheeran and Future)", "img": "Placeholder" },
-    { "name": "“I Did Something Bad”", "img": "Placeholder" },
-    { "name": "“Don’t Blame Me”", "img": "Placeholder" },
-    { "name": "“Delicate”", "img": "Placeholder" },
-    { "name": "“Look What You Made Me Do”", "img": "Placeholder" },
-    { "name": "“So It Goes…”", "img": "Placeholder" },
-    { "name": "“Gorgeous”", "img": "Placeholder" },
-    { "name": "“Getaway Car”", "img": "Placeholder" },
-    { "name": "“King of My Heart”", "img": "Placeholder" },
-    { "name": "“Dancing With Our Hands Tied”", "img": "Placeholder" },
-    { "name": "“Dress”", "img": "Placeholder" },
-    { "name": "“This Is Why We Can’t Have Nice Things”", "img": "Placeholder" },
-    { "name": "“Call It What You Want”", "img": "Placeholder" },
-    { "name": "“New Years Day”", "img": "Placeholder" }
+    { "name": "“…Ready for It?”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“End Game” (featuring Ed Sheeran and Future)", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“I Did Something Bad”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“Don’t Blame Me”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“Delicate”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“Look What You Made Me Do”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“So It Goes…”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“Gorgeous”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“Getaway Car”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“King of My Heart”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“Dancing With Our Hands Tied”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“Dress”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“This Is Why We Can’t Have Nice Things”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“Call It What You Want”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" },
+    { "name": "“New Years Day”", "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png" }
   ]
 }
