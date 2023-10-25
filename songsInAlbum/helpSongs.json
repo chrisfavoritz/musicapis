@@ -1,18 +1,18 @@
 {
   "items": [
-    { "name": "Help!", "img": "Placeholder" },
-    { "name": "The Night Before", "img": "Placeholder" },
-    { "name": "You've Got To Hide Your Love Away", "img": "Placeholder" },
-    { "name": "I Need You", "img": "Placeholder" },
-    { "name": "Another Girl", "img": "Placeholder" },
-    { "name": "You're Going To Lose That Girl", "img": "Placeholder" },
-    { "name": "Ticket to Ride", "img": "Placeholder" },
-    { "name": "Act Naturally", "img": "Placeholder" },
-    { "name": "It's Only Love", "img": "Placeholder" },
-    { "name": "You Like Me Too Much", "img": "Placeholder" },
-    { "name": "Tell Me What You See", "img": "Placeholder" },
-    { "name": "I've Just Seen a Face", "img": "Placeholder" },
-    { "name": "Yesterday", "img": "Placeholder" },
-    { "name": "Dizzy Miss Lizzy", "img": "Placeholder" }
+    { "name": "Help!", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "The Night Before", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "You've Got To Hide Your Love Away", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "I Need You", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "Another Girl", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "You're Going To Lose That Girl", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "Ticket to Ride", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "Act Naturally", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "It's Only Love", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "You Like Me Too Much", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "Tell Me What You See", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "I've Just Seen a Face", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "Yesterday", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" },
+    { "name": "Dizzy Miss Lizzy", "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg" }
   ]
 }
