@@ -1,17 +1,17 @@
 {
   "items": [
-    { "name": "Yellow Submarine", "img": "Placeholder" },
-    { "name": "Only A Northern Song", "img": "Placeholder" },
-    { "name": "All Together Now", "img": "Placeholder" },
-    { "name": "Hey Bulldog", "img": "Placeholder" },
-    { "name": "It's All Too Much", "img": "Placeholder" },
-    { "name": "All You Need Is Love", "img": "Placeholder" },
-    { "name": "Pepperland", "img": "Placeholder" },
-    { "name": "Sea of Time", "img": "Placeholder" },
-    { "name": "Sea of Holes", "img": "Placeholder" },
-    { "name": "Sea of Monsters", "img": "Placeholder" },
-    { "name": "March of The Meanies", "img": "Placeholder" },
-    { "name": "Pepperland Laid Waist", "img": "Placeholder" },
-    { "name": "Yellow Submarine In Pepperland", "img": "Placeholder" }
+    { "name": "Yellow Submarine", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "Only A Northern Song", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "All Together Now", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "Hey Bulldog", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "It's All Too Much", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "All You Need Is Love", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "Pepperland", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "Sea of Time", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "Sea of Holes", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "Sea of Monsters", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "March of The Meanies", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "Pepperland Laid Waist", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" },
+    { "name": "Yellow Submarine In Pepperland", "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg" }
   ]
 }
