@@ -2,27 +2,27 @@
   "items": [
     {
       "name": "My World 2.0 (2010)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b9/Myworld2.jpg"
     },
     {
       "name": "Under the Mistletoe (2011)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Under_the_Mistletoe.jpg"
     },
     {
       "name": "Believe (2012)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/01/Believe-JB-Album.jpg"
     },
     {
       "name": "Purpose (2015)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png"
     },
     {
       "name": "Changes (2020)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png"
     },
     {
       "name": "Justice (2021)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Justin_Bieber_-_Justice.png"
     }
   ]
 }
