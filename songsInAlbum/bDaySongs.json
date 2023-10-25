@@ -1,20 +1,20 @@
 {
   "items": [
-    { "name": "Beautiful Liar - (with Shakira)", "img": "Placeholder" },
-    { "name": "Irreplaceable", "img": "Placeholder" },
-    { "name": "Greenlight", "img": "Placeholder" },
-    { "name": "Kitty Kat", "img": "Placeholder" },
-    { "name": "Welcome to Hollywood - (with Jay-Z)", "img": "Placeholder" },
-    { "name": "Upgrade U - (with Jay-Z)", "img": "Placeholder" },
-    { "name": "Flaws and All", "img": "Placeholder" },
-    { "name": "World Wide Woman", "img": "Placeholder" },
-    { "name": "Get Me Bodied - (Extended mix)", "img": "Placeholder" },
-    { "name": "If", "img": "Placeholder" },
-    { "name": "Freakum Dress", "img": "Placeholder" },
-    { "name": "Suga Mama", "img": "Placeholder" },
-    { "name": "Deja Vu - (with Jay-Z)", "img": "Placeholder" },
-    { "name": "Ring the Alarm", "img": "Placeholder" },
-    { "name": "Resentment", "img": "Placeholder" },
-    { "name": "Listen", "img": "Placeholder" }
+    { "name": "Beautiful Liar (feat. Shakira)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Irreplaceable", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Greenlight", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Kitty Kat", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Welcome to Hollywood (feat. Jay-Z)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Upgrade U (feat. Jay-Z)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Flaws and All", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "World Wide Woman", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Get Me Bodied - (Extended mix)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "If", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Freakum Dress", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Suga Mama", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Deja Vu (feat. Jay-Z)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Ring the Alarm", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Resentment", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" },
+    { "name": "Listen", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png" }
   ]
 }
