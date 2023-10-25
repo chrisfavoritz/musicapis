@@ -2,35 +2,35 @@
   "items": [
     {
       "name": "Music of the Sun (2005)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6e/Rihanna_-_Music_of_the_Sun.png"
     },
     {
       "name": "A Girl Like Me (2006)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/61/A_Girl_like_Me_-_Rihanna.png"
     },
     {
       "name": "Good Girl Gone Bad (2007)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f7/Good_Girl_Gone_Bad.png"
     },
     {
       "name": "Rated R (2009)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Rihanna_-_Rated_R.png"
     },
     {
       "name": "Loud (2010)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d1/Rihanna_-_Loud.png"
     },
     {
       "name": "Talk That Talk (2011)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png"
     },
     {
       "name": "Unapologetic (2012)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Unapologetic_-_Rihanna.png"
     },
     {
       "name": "Anti (2016)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/32/Rihanna_-_Anti.png"
     }
   ]
 }
