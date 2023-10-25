@@ -2,27 +2,27 @@
   "items": [
     {
       "name": "The Fame (2008)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/dd/Lady_Gaga_%E2%80%93_The_Fame_album_cover.png"
     },
     {
       "name": "The Fame Monster (2009)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/45/The_Fame_Monster.png"
     },
     {
       "name": "Born This Way (2011)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Born_This_Way_album_cover.png"
     },
     {
       "name": "Artpop (2013)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/39/Artpop_cover.png"
     },
     {
       "name": "Joanne (2016)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fd/Lady_Gaga_-_Joanne_%28Official_Album_Cover%29.png"
     },
     {
       "name": "Chromatica (2020)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Lady_Gaga_-_Chromatica_%28Official_Album_Cover%29.png"
     }
   ]
 }
