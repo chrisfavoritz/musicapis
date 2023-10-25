@@ -1,18 +1,18 @@
 {
   "items": [
-    { "name": "BLOOD.", "img": "Placeholder" },
-    { "name": "DNA.", "img": "Placeholder" },
-    { "name": "YAH.", "img": "Placeholder" },
-    { "name": "ELEMENT.", "img": "Placeholder" },
-    { "name": "FEEL.", "img": "Placeholder" },
-    { "name": "LOYALTY (FEAT. RIHANNA.)", "img": "Placeholder" },
-    { "name": "PRIDE.", "img": "Placeholder" },
-    { "name": "HUMBLE.", "img": "Placeholder" },
-    { "name": "LUST.", "img": "Placeholder" },
-    { "name": "LOVE. (FEAT. Zacari)", "img": "Placeholder" },
-    { "name": "XXX. (FEAT. U2)", "img": "Placeholder" },
-    { "name": "FEAR.", "img": "Placeholder" },
-    { "name": "GOD.", "img": "Placeholder" },
-    { "name": "DUCKWORTH.", "img": "Placeholder" }
+    { "name": "BLOOD.", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "DNA.", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "YAH.", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "ELEMENT.", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "FEEL.", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "LOYALTY (FEAT. RIHANNA.)", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "PRIDE.", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "HUMBLE.", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "LUST.", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "LOVE. (FEAT. Zacari)", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "XXX. (FEAT. U2)", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "FEAR.", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "GOD.", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" },
+    { "name": "DUCKWORTH.", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png" }
   ]
 }
