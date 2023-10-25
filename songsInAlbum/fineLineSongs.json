@@ -1,16 +1,16 @@
 {
   "items": [
-    { "name": "Golden", "img": "Placeholder" },
-    { "name": "Watermelon Sugar", "img": "Placeholder" },
-    { "name": "Adore You", "img": "Placeholder" },
-    { "name": "Lights Up", "img": "Placeholder" },
-    { "name": "Cherry", "img": "Placeholder" },
-    { "name": "Falling", "img": "Placeholder" },
-    { "name": "To Be So Lonely", "img": "Placeholder" },
-    { "name": "She", "img": "Placeholder" },
-    { "name": "Sunflower, Vol. 6", "img": "Placeholder" },
-    { "name": "Canyon Moon", "img": "Placeholder" },
-    { "name": "Treat People With Kindness", "img": "Placeholder" },
-    { "name": "Fine Line", "img": "Placeholder" }
+    { "name": "Golden", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" },
+    { "name": "Watermelon Sugar", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" },
+    { "name": "Adore You", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" },
+    { "name": "Lights Up", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" },
+    { "name": "Cherry", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" },
+    { "name": "Falling", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" },
+    { "name": "To Be So Lonely", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" },
+    { "name": "She", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" },
+    { "name": "Sunflower, Vol. 6", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" },
+    { "name": "Canyon Moon", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" },
+    { "name": "Treat People With Kindness", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" },
+    { "name": "Fine Line", "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png" }
   ]
 }
