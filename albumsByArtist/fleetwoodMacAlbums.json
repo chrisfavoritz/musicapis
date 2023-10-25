@@ -2,75 +2,75 @@
   "items": [
     {
       "name": "Fleetwood Mac (1968)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Fleetwood_Mac_-_Fleetwood_Mac_%281968%29.jpg"
     },
     {
       "name": "Mr. Wonderful (1968)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d3/Fleetwood_Mac_-_Mr._Wonderful.jpg"
     },
     {
       "name": "Then Play On (1969)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/Then_Play_On.jpg"
     },
     {
       "name": "Kiln House (1970)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/95/Kilnhouse.jpg"
     },
     {
       "name": "Future Games (1971)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b5/Fleetwood_Mac_-_Future_Games.jpg"
     },
     {
       "name": "Bare Trees (1972)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Baretreescd.jpg"
     },
     {
       "name": "Penguin (1973)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/24/Penguin_%28album%29.jpg"
     },
     {
       "name": "Mystery to Me (1973)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/09/Mystery_to_Me_cover.jpg"
     },
     {
       "name": "Heroes Are Hard to Find (1974)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Fleetwood_Mac_-_Heroes_Are_Hard_to_Find.jpg"
     },
     {
-      "name": "Fleetwood Mac (1975) - White Album",
-      "img": "placeholder"
+      "name": "Fleetwood Mac (1975)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Fleetwood_Mac_-_Fleetwood_Mac_%281975%29.png"
     },
     {
       "name": "Rumours (1977)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG"
     },
     {
       "name": "Tusk (1979)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c5/Fleetwood_Mac_-_Tusk.png"
     },
     {
       "name": "Mirage (1982)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/76/Fleetwood_Mac_-_Mirage.png"
     },
     {
       "name": "Tango in the Night (1987)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/Fleetwood_Mac_-_Tango_in_the_Night.png"
     },
     {
       "name": "Behind the Mask (1990)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/82/Fleetwood_Mac_-_Behind_the_Mask.jpg"
     },
     {
       "name": "Time (1995)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/07/Timecdmac.jpg"
     },
     {
       "name": "The Dance (1997)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fleetwood_Mac_-_The_Dance.jpg"
     },
     {
       "name": "Say You Will (2003)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b0/Fleetwood_Mac_-_Say_You_Will.png"
     }
   ]
 }
