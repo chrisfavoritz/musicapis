@@ -1,16 +1,16 @@
 {
   "items": [
-    { "name": "Two of Us", "img": "Placeholder" },
-    { "name": "Dig a Pony", "img": "Placeholder" },
-    { "name": "Across the Universe", "img": "Placeholder" },
-    { "name": "I Me Mine", "img": "Placeholder" },
-    { "name": "Dig It", "img": "Placeholder" },
-    { "name": "Let It Be", "img": "Placeholder" },
-    { "name": "Maggie Mae", "img": "Placeholder" },
-    { "name": "I've Got a Feeling", "img": "Placeholder" },
-    { "name": "One After 909", "img": "Placeholder" },
-    { "name": "Long and Winding Road", "img": "Placeholder" },
-    { "name": "For You Blue", "img": "Placeholder" },
-    { "name": "Get Back", "img": "Placeholder" }
+    { "name": "Two of Us", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" },
+    { "name": "Dig a Pony", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" },
+    { "name": "Across the Universe", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" },
+    { "name": "I Me Mine", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" },
+    { "name": "Dig It", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" },
+    { "name": "Let It Be", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" },
+    { "name": "Maggie Mae", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" },
+    { "name": "I've Got a Feeling", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" },
+    { "name": "One After 909", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" },
+    { "name": "Long and Winding Road", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" },
+    { "name": "For You Blue", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" },
+    { "name": "Get Back", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg" }
   ]
 }
