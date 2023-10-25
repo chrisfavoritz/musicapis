@@ -1,19 +1,19 @@
 {
   "items": [
-    { "name": "Crazy In Love - (featuring Jay-Z)", "img": "Placeholder" },
-    { "name": "Naughty Girl", "img": "Placeholder" },
-    { "name": "Baby Boy - (featuring Sean Paul)", "img": "Placeholder" },
-    { "name": "Hip Hop Star - (featuring Sleepy Brown / Big Boi)", "img": "Placeholder" },
-    { "name": "Be with You", "img": "Placeholder" },
-    { "name": "Me, Myself And I", "img": "Placeholder" },
-    { "name": "Yes", "img": "Placeholder" },
-    { "name": "Signs - (featuring Missy Elliott)", "img": "Placeholder" },
-    { "name": "Speechless", "img": "Placeholder" },
-    { "name": "That's How You Like It - (featuring Jay-Z)", "img": "Placeholder" },
-    { "name": "Closer I Get To You, The - (featuring Luther Vandross)", "img": "Placeholder" },
-    { "name": "Dangerously in Love", "img": "Placeholder" },
-    { "name": "Beyonce Interlude", "img": "Placeholder" },
-    { "name": "Gift From Virgo", "img": "Placeholder" },
-    { "name": "Daddy", "img": "Placeholder" }
+    { "name": "Crazy In Love (feat. Jay-Z)", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Naughty Girl", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Baby Boy (feat. Sean Paul)", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Hip Hop Star (feat. Sleepy Brown & Big Boi)", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Be with You", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Me, Myself And I", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Yes", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Signs (feat. Missy Elliott)", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Speechless", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "That's How You Like It (feat. Jay-Z)", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Closer I Get To You, The (feat. Luther Vandross)", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Dangerously in Love", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Beyonce Interlude", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Gift From Virgo", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" },
+    { "name": "Daddy", "img": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png" }
   ]
 }
