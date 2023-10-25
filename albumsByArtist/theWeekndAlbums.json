@@ -2,27 +2,27 @@
   "items": [
     {
       "name": "Trilogy (2012)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/96/The_Weeknd_-_Trilogy.png"
     },
     {
       "name": "Kiss Land (2013)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ed/The_Weeknd_-_Kiss_Land.png"
     },
     {
       "name": "Beauty Behind the Madness (2015)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png"
     },
     {
       "name": "Starboy (2016)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Weeknd_-_Starboy.png"
     },
     {
       "name": "After Hours (2020)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Weeknd_-_After_Hours.png"
     },
     {
       "name": "Dawn FM (2022)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b9/The_Weeknd_-_Dawn_FM.png"
     }
   ]
 }
