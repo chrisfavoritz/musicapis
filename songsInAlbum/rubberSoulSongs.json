@@ -1,18 +1,18 @@
 {
   "items": [
-    { "name": "Drive My Car", "img": "Placeholder" },
-    { "name": "Norwegian Wood (This Bird Has Flown)", "img": "Placeholder" },
-    { "name": "You Won't See Me", "img": "Placeholder" },
-    { "name": "Nowhere Man", "img": "Placeholder" },
-    { "name": "Think for Yourself", "img": "Placeholder" },
-    { "name": "Word", "img": "Placeholder" },
-    { "name": "Michelle", "img": "Placeholder" },
-    { "name": "What Goes On", "img": "Placeholder" },
-    { "name": "Girl", "img": "Placeholder" },
-    { "name": "I'm Looking Through You", "img": "Placeholder" },
-    { "name": "In My Life", "img": "Placeholder" },
-    { "name": "Wait", "img": "Placeholder" },
-    { "name": "If I Needed Someone", "img": "Placeholder" },
-    { "name": "Run for Your Life", "img": "Placeholder" }
+    { "name": "Drive My Car", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "Norwegian Wood (This Bird Has Flown)", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "You Won't See Me", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "Nowhere Man", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "Think for Yourself", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "Word", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "Michelle", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "What Goes On", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "Girl", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "I'm Looking Through You", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "In My Life", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "Wait", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "If I Needed Someone", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" },
+    { "name": "Run for Your Life", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg" }
   ]
 }
