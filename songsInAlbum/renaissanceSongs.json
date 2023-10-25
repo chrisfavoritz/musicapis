@@ -1,20 +1,20 @@
 {
   "items": [
-    { "name": "I'M THAT GIRL", "img": "Placeholder" },
-    { "name": "COZY", "img": "Placeholder" },
-    { "name": "ALIEN SUPERSTAR", "img": "Placeholder" },
-    { "name": "CUFF IT", "img": "Placeholder" },
-    { "name": "ENERGY (FEAT. BEAM)", "img": "Placeholder" },
-    { "name": "BREAK MY SOUL", "img": "Placeholder" },
-    { "name": "CHURCH GIRL", "img": "Placeholder" },
-    { "name": "PLASTIC OFF THE SOFA", "img": "Placeholder" },
-    { "name": "VIRGO'S GROOVE", "img": "Placeholder" },
-    { "name": "MOVE", "img": "Placeholder" },
-    { "name": "HEATED", "img": "Placeholder" },
-    { "name": "THIQUE", "img": "Placeholder" },
-    { "name": "ALL UP IN YOUR MIND", "img": "Placeholder" },
-    { "name": "AMERICA HAS A PROBLEM", "img": "Placeholder" },
-    { "name": "PURE / HONEY", "img": "Placeholder" },
-    { "name": "SUMMER RENAISSANCE", "img": "Placeholder" }
+    { "name": "I'M THAT GIRL", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "COZY", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "ALIEN SUPERSTAR", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "CUFF IT", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "ENERGY (FEAT. BEAM)", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "BREAK MY SOUL", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "CHURCH GIRL", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "PLASTIC OFF THE SOFA", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "VIRGO'S GROOVE", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "MOVE", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "HEATED", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "THIQUE", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "ALL UP IN YOUR MIND", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "AMERICA HAS A PROBLEM", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "PURE / HONEY", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" },
+    { "name": "SUMMER RENAISSANCE", "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png" }
   ]
 }
