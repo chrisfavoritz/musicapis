@@ -2,35 +2,35 @@
   "items": [
     {
       "name": "Overly Dedicated (2010)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Kendrick_Lamar_-_Overly_Dedicated.jpg"
     },
     {
       "name": "Section.80 (2011)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg"
     },
     {
       "name": "good kid, m.A.A.d city (2012)",
-      "img": "placeholder"
-    },
-    {
-      "name": "untitled unmastered. (2016)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg"
     },
     {
       "name": "To Pimp a Butterfly (2015)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png"
+    },
+    {
+      "name": "untitled unmastered. (2016)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/be/Kendrick_Lamar_-_Untitled_Unmastered_%28Artwork%29.jpg"
     },
     {
       "name": "DAMN. (2017)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png"
     },
     {
       "name": "Black Panther: The Album (2018)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/Black_Panther_-_The_Album_cover.png"
     },
     {
       "name": "Mr. Morale & The Big Steppers (2022)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/Kendrick_Lamar_-_Mr._Morale_%26_the_Big_Steppers.png"
     }
   ]
 }
