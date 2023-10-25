@@ -2,103 +2,103 @@
   "items": [
     {
       "name": "Elvis Presley",
-      "img": "placeholder"
+      "img": "https://en.wikipedia.org/wiki/Elvis_Presley#/media/File:Elvis_Presley_promoting_Jailhouse_Rock.jpg"
     },
     {
       "name": "Michael Jackson",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Michael_Jackson_in_1988.jpg"
     },
     {
       "name": "Frank Sinatra",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg/365px-Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg"
     },
     {
       "name": "Elton John",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Eltonjohn_photo_1971.jpg/498px-Eltonjohn_photo_1971.jpg"
     },
     {
       "name": "Stevie Wonder",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Stevie_Wonder_1994.jpg"
     },
     {
       "name": "Bob Dylan",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bob-Dylan-arrived-at-Arlanda-surrounded-by-twenty-bodyguards-and-assistants-391770740297_%28cropped%29.jpg/220px-Bob-Dylan-arrived-at-Arlanda-surrounded-by-twenty-bodyguards-and-assistants-391770740297_%28cropped%29.jpg"
     },
     {
       "name": "Prince",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Prince_at_Coachella_%28cropped%29.jpg/180px-Prince_at_Coachella_%28cropped%29.jpg"
     },
     {
       "name": "David Bowie",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bowie_1983_serious_moonlight.jpg/314px-Bowie_1983_serious_moonlight.jpg"
     },
     {
       "name": "Johnny Cash",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Johnny_Cash_Promotional_Photo.jpg"
     },
     {
       "name": "Bruce Springsteen",
-      "img": "placeholder"
+      "img": "desarchiv_Bild_183-1988-0719-38%2C_Bruce_Springsteen%2C_Konzert_in_der_DDR.j"
     },
     {
       "name": "Billy Joel",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Billy_joel_revistapelo.jpg/392px-Billy_joel_revistapelo.jpg"
     },
     {
       "name": "James Brown",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/James_brown-08.jpg/220px-James_brown-08.jpg"
     },
     {
       "name": "Marvin Gaye",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Marvin_Gaye_%281973_publicity_photo%29.jpg/416px-Marvin_Gaye_%281973_publicity_photo%29.jpg"
     },
     {
       "name": "Ray Charles",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ray_Charles_classic_piano_pose.jpg/407px-Ray_Charles_classic_piano_pose.jpg"
     },
     {
       "name": "Jimi Hendrix",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jimi_Hendrix_1967.png/220px-Jimi_Hendrix_1967.png"
     },
     {
       "name": "Paul McCartney",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Paul_McCartney_Headshot_%28cropped%29.jpg/170px-Paul_McCartney_Headshot_%28cropped%29.jpg"
     },
     {
       "name": "Eric Clapton",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eric_clapton_argentina_1990.jpg/347px-Eric_clapton_argentina_1990.jpg"
     },
     {
       "name": "Freddie Mercury",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/FreddieMercuryNov1977.jpg/220px-FreddieMercuryNov1977.jpg"
     },
     {
       "name": "Billy Idol",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Billy_IDOL_2012.JPG/220px-Billy_IDOL_2012.JPG"
     },
     {
       "name": "B.B. King",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/BBKingNY.jpg/170px-BBKingNY.jpg"
     },
     {
       "name": "George Michael",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/George_Michael.jpeg/338px-George_Michael.jpeg"
     },
     {
       "name": "Neil Young",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Neil_Young_in_Austin%2C_1976.jpg/220px-Neil_Young_in_Austin%2C_1976.jpg"
     },
     {
       "name": "Mick Jagger",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mick-Jagger-1965b.jpg/220px-Mick-Jagger-1965b.jpg"
     },
     {
       "name": "Phil Collins",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Phil_Collins_1980s_%28cropped%29.jpg/170px-Phil_Collins_1980s_%28cropped%29.jpg"
     },
     {
       "name": "Rod Stewart",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Rod_stewart_05111976_12_400.jpg"
     }
   ]
 }
