@@ -1,15 +1,15 @@
 {
   "items": [
-    { "name": "Digital Dash", "img": "Placeholder" },
-    { "name": "Big Rings", "img": "Placeholder" },
-    { "name": "Live From The Gutter", "img": "Placeholder" },
-    { "name": "Diamonds Dancing", "img": "Placeholder" },
-    { "name": "Scholarships", "img": "Placeholder" },
-    { "name": "Plastic Bag", "img": "Placeholder" },
-    { "name": "I’m The Plug", "img": "Placeholder" },
-    { "name": "Change Locations", "img": "Placeholder" },
-    { "name": "Jumpman", "img": "Placeholder" },
-    { "name": "Jersey", "img": "Placeholder" },
-    { "name": "30 For 30 Freestyle", "img": "Placeholder" }
+    { "name": "Digital Dash", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg" },
+    { "name": "Big Rings", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg" },
+    { "name": "Live From The Gutter", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg" },
+    { "name": "Diamonds Dancing", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg" },
+    { "name": "Scholarships", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg" },
+    { "name": "Plastic Bag", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg" },
+    { "name": "I’m The Plug", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg" },
+    { "name": "Change Locations", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg" },
+    { "name": "Jumpman", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg" },
+    { "name": "Jersey", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg" },
+    { "name": "30 For 30 Freestyle", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg" }
   ]
 }
