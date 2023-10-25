@@ -2,43 +2,43 @@
   "items": [
     {
       "name": "Taylor Swift (2006)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png"
     },
     {
       "name": "Fearless (2008)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png"
     },
     {
       "name": "Speak Now (2010)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Taylor_Swift_-_Speak_Now_cover.png/220px-Taylor_Swift_-_Speak_Now_cover.png"
     },
     {
       "name": "Red (2012)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png"
     },
     {
       "name": "1989 (2014)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png"
     },
     {
       "name": "Reputation (2017)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png"
     },
     {
       "name": "Lover (2019)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png"
     },
     {
       "name": "Folklore (2020)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png"
     },
     {
       "name": "Evermore (2020)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Taylor_Swift_-_Evermore.png"
     },
     {
       "name": "Midnights (2022)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Midnights_-_Taylor_Swift.png"
     }
   ]
 }
