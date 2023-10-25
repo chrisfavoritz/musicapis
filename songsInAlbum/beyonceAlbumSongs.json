@@ -1,18 +1,18 @@
 {
   "items": [
-    { "name": "Pretty Hurts", "img": "Placeholder" },
-    { "name": "Haunted", "img": "Placeholder" },
-    { "name": "Drunk in Love (feat. Jay Z)", "img": "Placeholder" },
-    { "name": "Blow", "img": "Placeholder" },
-    { "name": "Angel", "img": "Placeholder" },
-    { "name": "Partition", "img": "Placeholder" },
-    { "name": "Jealous", "img": "Placeholder" },
-    { "name": "Rocket", "img": "Placeholder" },
-    { "name": "Mine (feat. Drake)", "img": "Placeholder" },
-    { "name": "XO", "img": "Placeholder" },
-    { "name": "***Flawless (feat. Chimamanda Ngozi Adichie)", "img": "Placeholder" },
-    { "name": "Superpower (feat. Frank Ocean)", "img": "Placeholder" },
-    { "name": "Heaven", "img": "Placeholder" },
-    { "name": "Blue (feat. Blue Ivy)", "img": "Placeholder" }
+    { "name": "Pretty Hurts", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "Haunted", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "Drunk in Love (feat. Jay Z)", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "Blow", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "Angel", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "Partition", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "Jealous", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "Rocket", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "Mine (feat. Drake)", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "XO", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "***Flawless (feat. Chimamanda Ngozi Adichie)", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "Superpower (feat. Frank Ocean)", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "Heaven", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" },
+    { "name": "Blue (feat. Blue Ivy)", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/640px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png" }
   ]
 }
