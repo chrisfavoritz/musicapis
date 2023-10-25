@@ -1,20 +1,20 @@
 {
   "items": [
-    { "name": "Legend", "img": "Placeholder" },
-    { "name": "Energy", "img": "Placeholder" },
-    { "name": "10 Bands", "img": "Placeholder" },
-    { "name": "Know Yourself", "img": "Placeholder" },
-    { "name": "No Tellin’", "img": "Placeholder" },
-    { "name": "Madonna", "img": "Placeholder" },
-    { "name": "6 God", "img": "Placeholder" },
-    { "name": "Star67", "img": "Placeholder" },
-    { "name": "Preach (feat. PartyNextDoor)", "img": "Placeholder" },
-    { "name": "Wednesday Night Interlude (feat. PartyNextDoor)", "img": "Placeholder" },
-    { "name": "Used To (feat. Lil Wayne)", "img": "Placeholder" },
-    { "name": "Now & Forever", "img": "Placeholder" },
-    { "name": "Company (Feat. Travi$ Scott)", "img": "Placeholder" },
-    { "name": "You & The 6", "img": "Placeholder" },
-    { "name": "Jungle", "img": "Placeholder" },
-    { "name": "6PM In New York", "img": "Placeholder" }
+    { "name": "Legend", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "Energy", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "10 Bands", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "Know Yourself", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "No Tellin’", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "Madonna", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "6 God", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "Star67", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "Preach (feat. PartyNextDoor)", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "Wednesday Night Interlude (feat. PartyNextDoor)", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "Used To (feat. Lil Wayne)", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "Now & Forever", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "Company (Feat. Travi$ Scott)", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "You & The 6", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "Jungle", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" },
+    { "name": "6PM In New York", "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png" }
   ]
 }
