@@ -2,27 +2,31 @@
   "items": [
     {
       "name": "Songs About Jane (2002)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/be/Maroon_5_-_Songs_About_Jane.png"
     },
     {
       "name": "It Won't Be Soon Before Long (2007)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Maroon_5_-_It_Won%27t_Be_Soon_Before_Long.png"
     },
     {
       "name": "Hands All Over (2010)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/71/Maroon_5_-_Hands_All_Over.png"
     },
     {
       "name": "Overexposed (2012)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/77/Maroon_5_-_Overexposed.png"
     },
     {
       "name": "V (2014)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Maroon_5_-_V_%28Official_Album_Cover%29.png"
     },
     {
       "name": "Red Pill Blues (2017)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Red_Pill_Blues_cover.png"
+    },
+    {
+      "name": "JORDI (2021)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/Maroon_5_-_Jordi.png"
     }
   ]
 }
