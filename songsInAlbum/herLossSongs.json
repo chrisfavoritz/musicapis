@@ -1,20 +1,20 @@
 {
   "items": [
-    { "name": "Rich Flex", "img": "Placeholder" },
-    { "name": "Major Distribution", "img": "Placeholder" },
-    { "name": "On BS", "img": "Placeholder" },
-    { "name": "BACKOUTSIDEBOYZ", "img": "Placeholder" },
-    { "name": "Privileged Rappers", "img": "Placeholder" },
-    { "name": "Spin Bout U", "img": "Placeholder" },
-    { "name": "Hours in Silence", "img": "Placeholder" },
-    { "name": "Treacherous Twins", "img": "Placeholder" },
-    { "name": "Circo Loco", "img": "Placeholder" },
-    { "name": "P—y & Millions (feat. Travis Scott)", "img": "Placeholder" },
-    { "name": "Broke Boys", "img": "Placeholder" },
-    { "name": "Middle of the Ocean", "img": "Placeholder" },
-    { "name": "Jumbotron S–t Poppin", "img": "Placeholder" },
-    { "name": "More M’s", "img": "Placeholder" },
-    { "name": "3 AM on Glenwood", "img": "Placeholder" },
-    { "name": "I Guess It’s F–k Me", "img": "Placeholder" }
+    { "name": "Rich Flex", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "Major Distribution", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "On BS", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "BACKOUTSIDEBOYZ", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "Privileged Rappers", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "Spin Bout U", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "Hours in Silence", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "Treacherous Twins", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "Circo Loco", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "Pu**y & Millions (feat. Travis Scott)", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "Broke Boys", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "Middle of the Ocean", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "Jumbotron S–t Poppin", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "More M’s", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "3 AM on Glenwood", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" },
+    { "name": "I Guess It’s F**k Me", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Drake_and_21_Savage_-_Her_Loss.png" }
   ]
 }
