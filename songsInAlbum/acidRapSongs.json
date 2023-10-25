@@ -1,18 +1,18 @@
 {
   "items": [
-    { "name": "Good Ass Intro (featuring BJ the Chicago Kid)", "img": "Placeholder" },
-    { "name": "Pusha Man (featuring Nate Fox)", "img": "Placeholder" },
-    { "name": "Paranoia (featuring Lili K. and Nosaj Thing)", "img": "Placeholder" },
-    { "name": "Cocoa Butter Kisses (featuring Vic Mensa and Twista)", "img": "Placeholder" },
-    { "name": "Juice", "img": "Placeholder" },
-    { "name": "Lost (featuring Noname)", "img": "Placeholder" },
-    { "name": "Everybody's Something (featuring Saba and BJ the Chicago Kid)", "img": "Placeholder" },
-    { "name": "Interlude (That's Love)", "img": "Placeholder" },
-    { "name": "Favorite Song (featuring Childish Gambino)", "img": "Placeholder" },
-    { "name": "NaNa (featuring Action Bronson)", "img": "Placeholder" },
-    { "name": "Smoke Again (featuring Ab-Soul)", "img": "Placeholder" },
-    { "name": "Acid Rain", "img": "Placeholder" },
-    { "name": "Chain Smoker", "img": "Placeholder" },
-    { "name": "Everything's Good (Good Ass Outro)", "img": "Placeholder" }
+    { "name": "Good Ass Intro (feat. BJ the Chicago Kid)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Pusha Man (feat. Nate Fox)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Paranoia (feat. Lili K. & Nosaj Thing)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Cocoa Butter Kisses (feat. Vic Mensa & Twista)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Juice", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Lost (feat. Noname)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Everybody's Something (feat. Saba and BJ the Chicago Kid)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Interlude (That's Love)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Favorite Song (feat. Childish Gambino)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "NaNa (feat. Action Bronson)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Smoke Again (feat. Ab-Soul)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Acid Rain", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Chain Smoker", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" },
+    { "name": "Everything's Good (Good Ass Outro)", "img": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg" }
   ]
 }
