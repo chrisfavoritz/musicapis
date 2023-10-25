@@ -1,21 +1,21 @@
 {
   "items": [
-    { "name": "the 1", "img": "Placeholder" },
-    { "name": "cardigan", "img": "Placeholder" },
-    { "name": "the last great american dynasty", "img": "Placeholder" },
-    { "name": "exile (featuring bon iver)", "img": "Placeholder" },
-    { "name": "my tears ricochet", "img": "Placeholder" },
-    { "name": "mirrorball", "img": "Placeholder" },
-    { "name": "seven", "img": "Placeholder" },
-    { "name": "august", "img": "Placeholder" },
-    { "name": "this is me trying", "img": "Placeholder" },
-    { "name": "illicit affairs", "img": "Placeholder" },
-    { "name": "invisible string", "img": "Placeholder" },
-    { "name": "mad woman", "img": "Placeholder" },
-    { "name": "epiphany", "img": "Placeholder" },
-    { "name": "betty", "img": "Placeholder" },
-    { "name": "peace", "img": "Placeholder" },
-    { "name": "hoax", "img": "Placeholder" },
-    { "name": "the lakes (bonus track)", "img": "Placeholder" }
+    { "name": "the 1", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "cardigan", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "the last great american dynasty", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "exile (featuring bon iver)", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "my tears ricochet", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "mirrorball", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "seven", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "august", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "this is me trying", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "illicit affairs", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "invisible string", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "mad woman", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "epiphany", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "betty", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "peace", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "hoax", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" },
+    { "name": "the lakes (bonus track)", "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png" }
   ]
 }
