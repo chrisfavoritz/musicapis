@@ -1,17 +1,17 @@
 {
   "items": [
-    { "name": "Sgt. Pepper's Lonely Hearts Club Band", "img": "Placeholder" },
-    { "name": "With A Little Help From My Friends", "img": "Placeholder" },
-    { "name": "Lucy In The Sky With Diamonds", "img": "Placeholder" },
-    { "name": "Getting Better", "img": "Placeholder" },
-    { "name": "Fixing A Hole", "img": "Placeholder" },
-    { "name": "She's Leaving Home", "img": "Placeholder" },
-    { "name": "Being For The Benefit Of Mr. Kite!", "img": "Placeholder" },
-    { "name": "Within You Without You", "img": "Placeholder" },
-    { "name": "When I'm Sixty-Four", "img": "Placeholder" },
-    { "name": "Lovely Rita", "img": "Placeholder" },
-    { "name": "Good Morning Good Morning", "img": "Placeholder" },
-    { "name": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)", "img": "Placeholder" },
-    { "name": "A Day In The Life", "img": "Placeholder" }
+    { "name": "Sgt. Pepper's Lonely Hearts Club Band", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "With A Little Help From My Friends", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "Lucy In The Sky With Diamonds", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "Getting Better", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "Fixing A Hole", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "She's Leaving Home", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "Being For The Benefit Of Mr. Kite!", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "Within You Without You", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "When I'm Sixty-Four", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "Lovely Rita", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "Good Morning Good Morning", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" },
+    { "name": "A Day In The Life", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg" }
   ]
 }
