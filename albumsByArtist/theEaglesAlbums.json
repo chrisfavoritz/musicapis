@@ -2,31 +2,31 @@
   "items": [
     {
       "name": "Eagles (1972)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d2/The_Eagles_-_The_Eagles.jpeg"
     },
     {
       "name": "Desperado (1973)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/The_Eagles_-_Desperado.jpg"
     },
     {
       "name": "On the Border (1974)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cc/The_Eagles_-_On_the_Border.jpg"
     },
     {
       "name": "One of These Nights (1975)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/30/The_Eagles_-_One_of_These_Nights.jpg"
     },
     {
       "name": "Hotel California (1976)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg"
     },
     {
       "name": "The Long Run (1979)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_Eagles_The_Long_Run.jpg"
     },
     {
       "name": "Long Road Out of Eden (2007)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/46/EaglesLongRoadOutOfEden.jpg"
     }
   ]
 }
