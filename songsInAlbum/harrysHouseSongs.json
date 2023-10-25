@@ -1,17 +1,17 @@
 {
   "items": [
-    { "name": "Music for a Sushi Restaurant", "img": "Placeholder" },
-    { "name": "Late Night Talking", "img": "Placeholder" },
-    { "name": "Grapejuice", "img": "Placeholder" },
-    { "name": "As It Was", "img": "Placeholder" },
-    { "name": "Daylight", "img": "Placeholder" },
-    { "name": "Little Freak", "img": "Placeholder" },
-    { "name": "Matilda", "img": "Placeholder" },
-    { "name": "Cinema", "img": "Placeholder" },
-    { "name": "Daydreaming", "img": "Placeholder" },
-    { "name": "Keep Driving", "img": "Placeholder" },
-    { "name": "Satellite", "img": "Placeholder" },
-    { "name": "Boyfriends", "img": "Placeholder" },
-    { "name": "Love of My Life", "img": "Placeholder" }
+    { "name": "Music for a Sushi Restaurant", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "Late Night Talking", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "Grapejuice", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "As It Was", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "Daylight", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "Little Freak", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "Matilda", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "Cinema", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "Daydreaming", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "Keep Driving", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "Satellite", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "Boyfriends", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" },
+    { "name": "Love of My Life", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png" }
   ]
 }
