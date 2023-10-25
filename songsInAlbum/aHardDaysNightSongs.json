@@ -1,17 +1,17 @@
 {
   "items": [
-    { "name": "A Hard Day's Night", "img": "Placeholder" },
-    { "name": "I Should Have Known Better", "img": "Placeholder" },
-    { "name": "If I Fell", "img": "Placeholder" },
-    { "name": "I'm Happy Just to Dance with You", "img": "Placeholder" },
-    { "name": "And I Love Her", "img": "Placeholder" },
-    { "name": "Tell Me Why", "img": "Placeholder" },
-    { "name": "Can't Buy Me Love", "img": "Placeholder" },
-    { "name": "Any Time at All", "img": "Placeholder" },
-    { "name": "I'll Cry Instead", "img": "Placeholder" },
-    { "name": "Things We Said Today", "img": "Placeholder" },
-    { "name": "When I Get Home", "img": "Placeholder" },
-    { "name": "You Can't Do That", "img": "Placeholder" },
-    { "name": "I'll Be Back", "img": "Placeholder" }
+    { "name": "A Hard Day's Night", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "I Should Have Known Better", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "If I Fell", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "I'm Happy Just to Dance with You", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "And I Love Her", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "Tell Me Why", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "Can't Buy Me Love", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "Any Time at All", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "I'll Cry Instead", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "Things We Said Today", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "When I Get Home", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "You Can't Do That", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" },
+    { "name": "I'll Be Back", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg" }
   ]
 }
