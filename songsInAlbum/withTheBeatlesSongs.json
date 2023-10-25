@@ -1,18 +1,18 @@
 {
   "items": [
-    { "name": "It Won't Be Long", "img": "Placeholder" },
-    { "name": "All I've Got to Do", "img": "Placeholder" },
-    { "name": "All My Loving", "img": "Placeholder" },
-    { "name": "Don't Bother Me", "img": "Placeholder" },
-    { "name": "Little Child", "img": "Placeholder" },
-    { "name": "Till There Was You", "img": "Placeholder" },
-    { "name": "Please Mr. Postman", "img": "Placeholder" },
-    { "name": "Roll over Beethoven", "img": "Placeholder" },
-    { "name": "Hold Me Tight", "img": "Placeholder" },
-    { "name": "You've Really Got a Hold on Me", "img": "Placeholder" },
-    { "name": "I Wanna Be Your Man", "img": "Placeholder" },
-    { "name": "Devil in Her Heart", "img": "Placeholder" },
-    { "name": "Not a Second Time", "img": "Placeholder" },
-    { "name": "Money (That's What I Want)", "img": "Placeholder" }
+    { "name": "It Won't Be Long", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "All I've Got to Do", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "All My Loving", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "Don't Bother Me", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "Little Child", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "Till There Was You", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "Please Mr. Postman", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "Roll over Beethoven", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "Hold Me Tight", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "You've Really Got a Hold on Me", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "I Wanna Be Your Man", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "Devil in Her Heart", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "Not a Second Time", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" },
+    { "name": "Money (That's What I Want)", "img": "https://upload.wikimedia.org/wikipedia/en/0/0a/Withthebeatlescover.jpg" }
   ]
 }
