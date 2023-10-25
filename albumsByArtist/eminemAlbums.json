@@ -2,47 +2,47 @@
   "items": [
     {
       "name": "Infinite (1996)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Infinite_by_Eminem_US_cassette_album.png"
     },
     {
       "name": "The Slim Shady LP (1999)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/35/Eminem_-_The_Slim_Shady_LP_CD_cover.jpg"
     },
     {
       "name": "The Marshall Mathers LP (2000)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/The_Marshall_Mathers_LP.jpg"
     },
     {
       "name": "The Eminem Show (2002)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/35/The_Eminem_Show.jpg"
     },
     {
       "name": "Encore (2004)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Encore_%28Eminem_album%29_coverart.jpg"
     },
     {
       "name": "Relapse (2009)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/42/Relapse_%28album%29.jpg"
     },
     {
       "name": "Recovery (2010)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/60/Recovery_Album_Cover.jpg"
     },
     {
       "name": "The Marshall Mathers LP 2 (2013)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/87/The_Marshall_Mathers_LP_2.png"
     },
     {
       "name": "Revival (2017)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Revival_Eminem_Cover.png"
     },
     {
       "name": "Kamikaze (2018)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/62/Eminem_-_Kamikaze.jpg"
     },
     {
       "name": "Music to Be Murdered By (2020)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/80/Eminem_-_Music_to_Be_Murdered_By.png"
     }
   ]
 }
