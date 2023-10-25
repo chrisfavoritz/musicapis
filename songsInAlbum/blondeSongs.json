@@ -1,21 +1,21 @@
 {
   "items": [
-    { "name": "Nikes", "img": "Placeholder" },
-    { "name": "Ivy", "img": "Placeholder" },
-    { "name": "Pink and White", "img": "Placeholder" },
-    { "name": "Be Yourself", "img": "Placeholder" },
-    { "name": "Solo", "img": "Placeholder" },
-    { "name": "Skyline To", "img": "Placeholder" },
-    { "name": "Self Control", "img": "Placeholder" },
-    { "name": "Good Guy", "img": "Placeholder" },
-    { "name": "Nights", "img": "Placeholder" },
-    { "name": "Solo (Reprise)", "img": "Placeholder" },
-    { "name": "Pretty Sweet", "img": "Placeholder" },
-    { "name": "Facebook Story", "img": "Placeholder" },
-    { "name": "Close to You", "img": "Placeholder" },
-    { "name": "White Ferrari", "img": "Placeholder" },
-    { "name": "Seigfried", "img": "Placeholder" },
-    { "name": "Godspeed", "img": "Placeholder" },
-    { "name": "Futura Free", "img": "Placeholder" }
+    { "name": "Nikes", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Ivy", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Pink and White", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Be Yourself", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Solo", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Skyline To", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Self Control", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Good Guy", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Nights", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Solo (Reprise)", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Pretty Sweet", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Facebook Story", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Close to You", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "White Ferrari", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Seigfried", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Godspeed", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" },
+    { "name": "Futura Free", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg" }
   ]
 }
