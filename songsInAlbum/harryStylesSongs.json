@@ -1,14 +1,14 @@
 {
   "items": [
-    { "name": "Meet Me in the Hallway", "img": "Placeholder" },
-    { "name": "Sign of the Times", "img": "Placeholder" },
-    { "name": "Carolina", "img": "Placeholder" },
-    { "name": "Two Ghosts", "img": "Placeholder" },
-    { "name": "Sweet Creature", "img": "Placeholder" },
-    { "name": "Only Angel", "img": "Placeholder" },
-    { "name": "Kiwi", "img": "Placeholder" },
-    { "name": "Ever Since New York", "img": "Placeholder" },
-    { "name": "Woman", "img": "Placeholder" },
-    { "name": "From the Dining Table", "img": "Placeholder" }
+    { "name": "Meet Me in the Hallway", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/HarryStyles-albumcover.png" },
+    { "name": "Sign of the Times", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/HarryStyles-albumcover.png" },
+    { "name": "Carolina", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/HarryStyles-albumcover.png" },
+    { "name": "Two Ghosts", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/HarryStyles-albumcover.png" },
+    { "name": "Sweet Creature", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/HarryStyles-albumcover.png" },
+    { "name": "Only Angel", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/HarryStyles-albumcover.png" },
+    { "name": "Kiwi", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/HarryStyles-albumcover.png" },
+    { "name": "Ever Since New York", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/HarryStyles-albumcover.png" },
+    { "name": "Woman", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/HarryStyles-albumcover.png" },
+    { "name": "From the Dining Table", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/HarryStyles-albumcover.png" }
   ]
 }
