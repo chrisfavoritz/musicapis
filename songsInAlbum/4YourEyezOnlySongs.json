@@ -1,14 +1,14 @@
 {
   "items": [
-    { "name": "For Whom The Bell Tolls", "img": "Placeholder" },
-    { "name": "Immortal", "img": "Placeholder" },
-    { "name": "Deja Vu", "img": "Placeholder" },
-    { "name": "Ville Mentality", "img": "Placeholder" },
-    { "name": "She's Mine Pt. 1", "img": "Placeholder" },
-    { "name": "Change", "img": "Placeholder" },
-    { "name": "Neighbors", "img": "Placeholder" },
-    { "name": "Foldin Clothes", "img": "Placeholder" },
-    { "name": "She's Mine Pt. 2", "img": "Placeholder" },
-    { "name": "4 Your Eyez Only", "img": "Placeholder" }
+    { "name": "For Whom The Bell Tolls", "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/J._Cole_%E2%80%94_4_Your_Eyez_Only_album_cover.jpg" },
+    { "name": "Immortal", "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/J._Cole_%E2%80%94_4_Your_Eyez_Only_album_cover.jpg" },
+    { "name": "Deja Vu", "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/J._Cole_%E2%80%94_4_Your_Eyez_Only_album_cover.jpg" },
+    { "name": "Ville Mentality", "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/J._Cole_%E2%80%94_4_Your_Eyez_Only_album_cover.jpg" },
+    { "name": "She's Mine Pt. 1", "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/J._Cole_%E2%80%94_4_Your_Eyez_Only_album_cover.jpg" },
+    { "name": "Change", "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/J._Cole_%E2%80%94_4_Your_Eyez_Only_album_cover.jpg" },
+    { "name": "Neighbors", "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/J._Cole_%E2%80%94_4_Your_Eyez_Only_album_cover.jpg" },
+    { "name": "Foldin Clothes", "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/J._Cole_%E2%80%94_4_Your_Eyez_Only_album_cover.jpg" },
+    { "name": "She's Mine Pt. 2", "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/J._Cole_%E2%80%94_4_Your_Eyez_Only_album_cover.jpg" },
+    { "name": "4 Your Eyez Only", "img": "https://upload.wikimedia.org/wikipedia/en/b/bb/J._Cole_%E2%80%94_4_Your_Eyez_Only_album_cover.jpg" }
   ]
 }
