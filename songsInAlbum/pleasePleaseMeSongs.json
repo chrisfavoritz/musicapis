@@ -1,18 +1,18 @@
 {
   "items": [
-    { "name": "I Saw Her Standing There", "img": "Placeholder" },
-    { "name": "Misery", "img": "Placeholder" },
-    { "name": "Anna (Go to Him)", "img": "Placeholder" },
-    { "name": "Chains", "img": "Placeholder" },
-    { "name": "Boys", "img": "Placeholder" },
-    { "name": "Ask Me Why", "img": "Placeholder" },
-    { "name": "Please Please Me", "img": "Placeholder" },
-    { "name": "Love Me Do", "img": "Placeholder" },
-    { "name": "P.S. I Love You", "img": "Placeholder" },
-    { "name": "Baby It's You", "img": "Placeholder" },
-    { "name": "Do You Want to Know a Secret", "img": "Placeholder" },
-    { "name": "A Taste of Honey", "img": "Placeholder" },
-    { "name": "There's a Place", "img": "Placeholder" },
-    { "name": "Twist and Shout", "img": "Placeholder" }
+    { "name": "I Saw Her Standing There", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "Misery", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "Anna (Go to Him)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "Chains", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "Boys", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "Ask Me Why", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "Please Please Me", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "Love Me Do", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "P.S. I Love You", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "Baby It's You", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "Do You Want to Know a Secret", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "A Taste of Honey", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "There's a Place", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" },
+    { "name": "Twist and Shout", "img": "https://upload.wikimedia.org/wikipedia/en/c/c0/PleasePleaseMe_audio_cover.jpg" }
   ]
 }
