@@ -1,18 +1,18 @@
 {
   "items": [
-    { "name": "All We Got (featuring Kanye West and Chicago Children's Choir)", "img": "Placeholder" },
-    { "name": "No Problem (featuring Lil Wayne and 2 Chainz)", "img": "Placeholder" },
-    { "name": "Summer Friends (featuring Jeremih and Francis and the Lights)", "img": "Placeholder" },
-    { "name": "D.R.A.M. Sings Special", "img": "Placeholder" },
-    { "name": "Blessings (feat. Jamila Woods)", "img": "Placeholder" },
-    { "name": "Same Drugs", "img": "Placeholder" },
-    { "name": "Mixtape (featuring Young Thug and Lil Yachty)", "img": "Placeholder" },
-    { "name": "Angels (featuring Saba)", "img": "Placeholder" },
-    { "name": "Juke Jam (featuring Justin Bieber and Towkio)", "img": "Placeholder" },
-    { "name": "All Night (featuring Knox Fortune)", "img": "Placeholder" },
-    { "name": "How Great (featuring Jay Electronica and My Cousin Nicole)", "img": "Placeholder" },
-    { "name": "Smoke Break (featuring Future)", "img": "Placeholder" },
-    { "name": "Finish Line / Drown (featuring T-Pain, Kirk Franklin, Eryn Allen Kane, and Noname)", "img": "Placeholder" },
-    { "name": "Blessings (feat. Ty Dolla $ign, Raury, BJ The Chicago Kid & Anderson .Paak)", "img": "Placeholder" }
+    { "name": "All We Got (feat. Kanye West & Chicago Children's Choir)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "No Problem (feat. Lil Wayne & 2 Chainz)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "Summer Friends (feat. Jeremih & Francis and the Lights)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "D.R.A.M. Sings Special", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "Blessings (feat. Jamila Woods)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "Same Drugs", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "Mixtape (feat. Young Thug & Lil Yachty)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "Angels (feat. Saba)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "Juke Jam (feat. Justin Bieber & Towkio)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "All Night (feat. Knox Fortune)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "How Great (feat. Jay Electronica & My Cousin Nicole)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "Smoke Break (feat. Future)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "Finish Line / Drown (feat. T-Pain, Kirk Franklin, Eryn Allen Kane & Noname)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" },
+    { "name": "Blessings (feat. Ty Dolla $ign, Raury, BJ The Chicago Kid & Anderson .Paak)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png" }
   ]
 }
