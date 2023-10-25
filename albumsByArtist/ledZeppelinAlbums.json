@@ -2,43 +2,43 @@
   "items": [
     {
       "name": "Led Zeppelin (1969)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ef/Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png"
     },
     {
       "name": "Led Zeppelin II (1969)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/20/Led_Zeppelin_-_Led_Zeppelin_II.jpg"
     },
     {
       "name": "Led Zeppelin III (1970)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/Led_Zeppelin_-_Led_Zeppelin_III.png"
     },
     {
-      "name": "Led Zeppelin IV (also known as \"Four Symbols\" or \"Untitled\") (1971)",
-      "img": "placeholder"
+      "name": "Led Zeppelin IV (1971)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg"
     },
     {
       "name": "Houses of the Holy (1973)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Led_Zeppelin_-_Houses_of_the_Holy.jpg"
     },
     {
       "name": "Physical Graffiti (1975)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e3/Led_Zeppelin_-_Physical_Graffiti.jpg"
     },
     {
       "name": "Presence (1976)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Led_Zeppelin_-_Presence.jpg"
     },
     {
       "name": "The Song Remains the Same (soundtrack album) (1976)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Led_Zeppelin_-_The_Song_Remains_the_Same.jpg"
     },
     {
       "name": "In Through the Out Door (1979)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Led_Zeppelin_-_In_Through_the_Out_Door.jpg"
     },
     {
       "name": "Coda (1982)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Led_Zeppelin_-_Coda.jpg"
     }
   ]
 }
