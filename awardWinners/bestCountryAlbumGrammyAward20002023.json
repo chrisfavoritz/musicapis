@@ -2,99 +2,99 @@
   "items": [
     {
       "name": "Dixie Chicks - \"Fly\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d1/Chicksfly.jpg"
     },
     {
       "name": "Faith Hill - \"Breathe\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/FaithHillBreathealbumcover.jpg"
     },
     {
       "name": "Various Artists (Soundtrack) - \"O Brother, Where Art Thou?\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6d/O_Brother%2C_Where_Art_Thou%3F_%28soundtrack%29.jpg"
     },
     {
       "name": "Dixie Chicks - \"Home\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/Dixie_Chicks_Home.jpg"
     },
     {
       "name": "Shania Twain - \"Up!\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ae/Shania_Twain_-_Up%21.png"
     },
     {
       "name": "Loretta Lynn - \"Van Lear Rose\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b3/Loretta-Lynn-Van-Lear-Rose-album.jpg"
     },
     {
       "name": "Keith Urban - \"Be Here\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d0/Keith_Urban_-_Be_Here_%28alternative_cover%29.jpg"
     },
     {
       "name": "Dixie Chicks - \"Taking the Long Way\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/TakingtheLongWay.jpg"
     },
     {
       "name": "Vince Gill - \"These Days\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/67/Vincethese.jpg"
     },
     {
       "name": "George Strait - \"Troubadour\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4f/GeorgeStraitTroubadour.jpg"
     },
     {
       "name": "Taylor Swift - \"Fearless\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/86/Taylor_Swift_-_Fearless.png"
     },
     {
       "name": "Lady Antebellum - \"Need You Now\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/Need_You_Now_album_cover.jpg"
     },
     {
       "name": "Lady Antebellum - \"Own the Night\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/34/Own_the_Night.jpg"
     },
     {
       "name": "Zac Brown Band - \"Uncaged\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bc/ZBB-Uncaged.jpg"
     },
     {
       "name": "Kacey Musgraves - \"Same Trailer Different Park\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/00/SameTrailerDifferentPark.jpg"
     },
     {
       "name": "Miranda Lambert - \"Platinum\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/MirandaLambertPlatinum.jpg"
     },
     {
       "name": "Chris Stapleton - \"Traveller\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d2/Traveller_%28Chris_Stapleton_album%29.jpg"
     },
     {
       "name": "Sturgill Simpson - \"A Sailor's Guide to Earth\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/27/Sturgill_Simpson_A_Sailor%27s_Guide_To_Earth.jpg"
     },
     {
       "name": "Chris Stapleton - \"From A Room: Volume 1\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/93/Chris-stapleton-from-a-room-volume-1.jpg"
     },
     {
       "name": "Kacey Musgraves - \"Golden Hour\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/65/Kacey_Musgraves_-_Golden_Hour.png"
     },
     {
       "name": "Tanya Tucker - \"While I'm Livin'\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/37/TanyaTuckerWhileI%27mLivin.jpg"
     },
     {
       "name": "Miranda Lambert - \"Wildcard\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f5/MirandaLambertWildcard.jpg"
     },
     {
       "name": "Jon Batiste - \"We Are\"",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f9/Jon_Batiste_-_We_Are.png"
     },
     {
-      "name": "(To be announced) - \"2023\"",
-      "img": "placeholder"
+      "name": "Willie Nelson - \"A Beautiful Time\"",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Willie_Nelson_-_A_Beautiful_Time_cover.png"
     }
   ]
 }
