@@ -2,103 +2,103 @@
   "items": [
     {
       "name": "Eminem",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Eminem_slim.jpg/220px-Eminem_slim.jpg"
     },
     {
       "name": "Kanye West",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kanyewestdec2008.jpg/170px-Kanyewestdec2008.jpg"
     },
     {
       "name": "Jay-Z",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jay-zlivein2010.jpg"
     },
     {
       "name": "Lil Wayne",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lil_Wayne_%2823513397583%29.jpg/220px-Lil_Wayne_%2823513397583%29.jpg"
     },
     {
       "name": "Drake",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Drake_July_2016.jpg/640px-Drake_July_2016.jpg"
     },
     {
       "name": "Kendrick Lamar",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kendrick_Lamar_3_F.I.B._2016_%28cropped%29.jpg/181px-Kendrick_Lamar_3_F.I.B._2016_%28cropped%29.jpg"
     },
     {
       "name": "Nas",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nas_in_Ottawa%2C_2007.JPG/200px-Nas_in_Ottawa%2C_2007.JPG"
     },
     {
       "name": "50 Cent",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/50_Cent-4_%28cropped%29.jpg/220px-50_Cent-4_%28cropped%29.jpg"
     },
     {
       "name": "T.I.",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/T.I._performing_in_concert%2C_wearing_a_Phoenix_Suns_cap_%28cropped%29.jpg/220px-T.I._performing_in_concert%2C_wearing_a_Phoenix_Suns_cap_%28cropped%29.jpg"
     },
     {
       "name": "OutKast (Andre 3000 and Big Boi)",
-      "img": "placeholder"
+      "img": "https://static.miraheze.org/excellentmusicwiki/thumb/4/49/OutKast_.jpg/330px-OutKast_.jpg"
     },
     {
       "name": "Snoop Dogg",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Snoop_Dogg_Hawaii.jpg/170px-Snoop_Dogg_Hawaii.jpg"
     },
     {
       "name": "J. Cole",
-      "img": "placeholder"
+      "img": "https://hips.hearstapps.com/hmg-prod/images/j_cole_photo_by_isaac_brekken_wireimage_getty_503069628.jpg"
     },
     {
       "name": "Nicki Minaj",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/Nicki_Minaj_VMA_2018_%28cropped%29.jpg"
     },
     {
       "name": "Kid Cudi",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kid_Cudi_performing_in_2017.jpg/394px-Kid_Cudi_performing_in_2017.jpg"
     },
     {
       "name": "Future",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Future_Summer_Sixteen_Tour.jpg/180px-Future_Summer_Sixteen_Tour.jpg"
     },
     {
-      "name": "Travis Scott",
-      "img": "placeholder"
+      "name": "Travis $cott",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Travi%24_Scott_2014_2.jpg/170px-Travi%24_Scott_2014_2.jpg"
     },
     {
       "name": "Chance the Rapper",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Chance_the_rapper_2017.jpg"
     },
     {
       "name": "Logic",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Logic_Grandoozy_2018_%2845208197292%29_%28cropped%29.jpg"
     },
     {
       "name": "A$AP Rocky",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/A%24AP_Rocky_performing_at_Hovefestivalen_2013.jpg"
     },
     {
       "name": "Childish Gambino",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/hip-hop-music/images/3/37/Childish_Gambino.jpg/revision/latest?cb=20161019114038"
     },
     {
       "name": "Big Sean",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Big_Sean_2009.jpg/210px-Big_Sean_2009.jpg"
     },
     {
       "name": "Pusha T",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pusha_T.jpg/170px-Pusha_T.jpg"
     },
     {
       "name": "Wiz Khalifa",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Wiz_Khalifa_Stavernfestivalen_2018_%28231826%29_%28cropped%29.jpg"
     },
     {
       "name": "Tyler, the Creator",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tyler%2C_The_Creator_%288048745695%29_%28cropped%29.jpg/189px-Tyler%2C_The_Creator_%288048745695%29_%28cropped%29.jpg"
     },
     {
       "name": "Lil Baby",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lil_Baby_HOTSPOTATL_2018.jpg/170px-Lil_Baby_HOTSPOTATL_2018.jpg"
     }
   ]
 }
