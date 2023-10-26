@@ -2,103 +2,103 @@
   "items": [
     {
       "name": "The Beatles",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_Beatles_-_All_You_Need_Is_Love_%26_Baby%2C_You%27re_a_Rich_Man%2C_1967_%28cropped%29.jpg/220px-The_Beatles_-_All_You_Need_Is_Love_%26_Baby%2C_You%27re_a_Rich_Man%2C_1967_%28cropped%29.jpg"
     },
     {
       "name": "Led Zeppelin",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fridayrockshow/images/3/35/Led_Zeppelin.jpg/revision/latest/scale-to-width-down/301?cb=20200502211843"
     },
     {
       "name": "The Rolling Stones",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Rolling_Stones_1965.jpg/220px-Rolling_Stones_1965.jpg"
     },
     {
       "name": "Queen",
-      "img": "placeholder"
+      "img": "https://cloud.radiofreccia.it/radiofreccia/News/Article/600x600/queen-greatest-hits-a-il-disco-pia-venduto-del-regno-unito-con-7-milioni-di-copie-square-site-70tar.jpg"
     },
     {
       "name": "Pink Floyd",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Pink_Floyd_-_all_members.jpg/250px-Pink_Floyd_-_all_members.jpg"
     },
     {
       "name": "The Who",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Who_in_1965.png/220px-The_Who_in_1965.png"
     },
     {
       "name": "U2",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/music/images/3/3c/U2.jpg/revision/latest?cb=20110811204048"
     },
     {
       "name": "The Beach Boys",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/The_Beach_Boys_1962.jpg/800px-The_Beach_Boys_1962.jpg"
     },
     {
       "name": "The Eagles",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/myat40/images/0/00/Eagles.jpg/revision/latest/scale-to-width-down/306?cb=20211014013546"
     },
     {
       "name": "Nirvana",
-      "img": "placeholder"
+      "img": "https://cdn.britannica.com/27/23027-004-633EF982/Nirvana-Kurt-Cobain-Krist-Novoselic-Dave-Grohl.jpg"
     },
     {
       "name": "The Jimi Hendrix Experience",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/miamivice/images/0/0e/Jimihendrix.jpg/revision/latest?cb=20100815153301"
     },
     {
       "name": "Fleetwood Mac",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/album/images/f/f8/Fleetwood_Mac.jpg/revision/latest/scale-to-width-down/500?cb=20130225132200"
     },
     {
       "name": "The Doors",
-      "img": "placeholder"
+      "img": "https://cdn.mos.cms.futurecdn.net/cmyVSbyEePFiJju699pVyf.jpg"
     },
     {
       "name": "The Clash",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/punk/images/9/9a/The-Clash-608x450.jpg/revision/latest?cb=20210218203908"
     },
     {
       "name": "Radiohead",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/4chanmusic/images/6/6c/Radiohead.jpg/revision/latest?cb=20130204042622"
     },
     {
       "name": "AC/DC",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ac/Acdc_Highway_to_Hell.JPG"
     },
     {
       "name": "The Police",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ed/The_Police_%28album%29.jpg"
     },
     {
-      "name": "The Velvet Underground",
-      "img": "placeholder"
+      "name": "N.W.A",
+      "img": "https://static.wikia.nocookie.net/hiphopdatabase/images/5/5e/NWAInfobox.jpg/revision/latest?cb=20180906225807"
+    },
+    {
+      "name": "Wu-Tang Clan",
+      "img": "https://static.wikia.nocookie.net/hip-hop-music/images/9/9a/Wu-Tang_Clan.jpg/revision/latest/scale-to-width-down/1200?cb=20130909075920"
     },
     {
       "name": "The Grateful Dead",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/79/Grateful_Dead_-_The_Grateful_Dead.jpg"
     },
     {
       "name": "Metallica",
-      "img": "placeholder"
-    },
-    {
-      "name": "R.E.M.",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/album/images/5/50/Metallica.jpg/revision/latest/scale-to-width-down/595?cb=20130828141114"
     },
     {
       "name": "The Bee Gees",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bee_Gees_1977.JPG"
     },
     {
       "name": "The Jackson 5",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Jacksons_1976_2.jpg/640px-The_Jacksons_1976_2.jpg"
     },
     {
       "name": "Black Sabbath",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Black_Sabbath_%28Iommi%2C_Osbourne%2C_Ward_and_Butler%29.JPG"
     },
     {
       "name": "Creedence Clearwater Revival (CCR)",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/disneyfanon/images/1/1e/33C48976-D643-454D-B74A-8036F80B7923.jpeg/revision/latest?cb=20200723192222"
     }
   ]
 }
