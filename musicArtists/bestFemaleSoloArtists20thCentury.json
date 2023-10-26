@@ -2,103 +2,103 @@
   "items": [
     {
       "name": "Aretha Franklin",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aretha_Franklin_1968.jpg/640px-Aretha_Franklin_1968.jpg"
     },
     {
       "name": "Billie Holiday",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Billie_Holiday_Billboard.jpg/200px-Billie_Holiday_Billboard.jpg"
     },
     {
       "name": "Whitney Houston",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Whitney_Houston_Welcome_Heroes_8_%28cropped%29.JPEG/201px-Whitney_Houston_Welcome_Heroes_8_%28cropped%29.JPEG"
     },
     {
       "name": "Nina Simone",
-      "img": "placeholder"
+      "img": "https://www.ninasimone.com/wp-content/uploads/2021/06/nina-simone-quote-2.jpg"
     },
     {
       "name": "Janis Joplin",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Janis_Joplin_seated_1970.JPG/220px-Janis_Joplin_seated_1970.JPG"
     },
     {
       "name": "Etta James",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Etta-james-portrait-in-ny-michael-ochs-archives.jpg/640px-Etta-james-portrait-in-ny-michael-ochs-archives.jpg"
     },
     {
       "name": "Madonna",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Madonna_Rebel_Heart_Tour_2015_-_Amsterdam_2_%2823823273120%29_%28cropped%29.jpg/220px-Madonna_Rebel_Heart_Tour_2015_-_Amsterdam_2_%2823823273120%29_%28cropped%29.jpg"
     },
     {
       "name": "Joni Mitchell",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Joni_Mitchell_in_1974.jpg/220px-Joni_Mitchell_in_1974.jpg"
     },
     {
       "name": "Tina Turner",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tina_turner_21021985_01_350.jpg/220px-Tina_turner_21021985_01_350.jpg"
     },
     {
       "name": "Patsy Cline",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Patsy-Cline-Coal-Miners-Daugh-466342.jpg"
     },
     {
       "name": "Dusty Springfield",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dusty_Springfield.png"
     },
     {
       "name": "Diana Ross",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/ozwikia/images/7/72/Diana-ross-afro.jpg/revision/latest/thumbnail/width/360/height/450?cb=20131008161543"
     },
     {
       "name": "Barbra Streisand",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Barbra_Streisand_singing-_1969.jpg/220px-Barbra_Streisand_singing-_1969.jpg"
     },
     {
       "name": "Ella Fitzgerald",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ella_Fitzgerald_1962.JPG/640px-Ella_Fitzgerald_1962.JPG"
     },
     {
       "name": "Amy Winehouse",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Amy_Winehouse_-Virgin_Festival%2C_Pimlico%2C_Baltimore%2C_Maryland-4August2007.jpg/180px-Amy_Winehouse_-Virgin_Festival%2C_Pimlico%2C_Baltimore%2C_Maryland-4August2007.jpg"
     },
     {
       "name": "Mariah Carey",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/97/Mariah_Carey_-_album.png"
     },
     {
       "name": "Lauryn Hill",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lauryn_Hill_Kongsberg_Jazzfestival_2019_%28221758%29_%28cropped%29.jpg"
     },
     {
       "name": "Dolly Parton",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Young-Dolly-Parton.jpg/640px-Young-Dolly-Parton.jpg"
     },
     {
       "name": "Bonnie Raitt",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bonnie1977.jpg"
     },
     {
-      "name": "Björk",
-      "img": "placeholder"
+      "name": "Stevie Nicks",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Stevie_Nicks_-_1977.jpg/170px-Stevie_Nicks_-_1977.jpg"
     },
     {
       "name": "Sade",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sade_Chile_2011_%28cropped%29.png/220px-Sade_Chile_2011_%28cropped%29.png"
     },
     {
       "name": "Cher",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pediatric_AIDS_Foundation_-_Washington%2C_D.C._-_seen_on_Wednesday%2C_June_21%2C_1989.jpg/180px-Pediatric_AIDS_Foundation_-_Washington%2C_D.C._-_seen_on_Wednesday%2C_June_21%2C_1989.jpg"
     },
     {
       "name": "Carole King",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Carole_King_-_Capitol.jpg/220px-Carole_King_-_Capitol.jpg"
     },
     {
-      "name": "Aretha Franklin",
-      "img": "placeholder"
+      "name": "Missy Elliott",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Missy_Elliot.jpg/220px-Missy_Elliot.jpg"
     },
     {
       "name": "Kate Bush",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kate_Bush_at_1986_Comic_Relief_%28cropped%29.png"
     }
   ]
 }
